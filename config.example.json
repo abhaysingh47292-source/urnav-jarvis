@@ -1,0 +1,16 @@
+{
+  "name": "Urnav",
+  "theme": "solar_orange",
+  "gemini_api_key": "YOUR_GEMINI_API_KEY",
+  "gemini_model": "gemini-3.5-flash",
+  "elevenlabs_api_key": "YOUR_ELEVENLABS_API_KEY",
+  "voice_enabled": true,
+  "github_repo": "username/repo-name",
+  "github_token": "YOUR_GITHUB_PERSONAL_ACCESS_TOKEN",
+  "github_branch": "main",
+  "github_folder": "summaries",
+  "gemini_work_url": "https://gemini.google.com",
+  "chatgpt_url": "https://chatgpt.com",
+  "gmail_url": "https://mail.google.com",
+  "calendar_url": "https://calendar.google.com"
+}

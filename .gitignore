@@ -1,0 +1,26 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Configuration with Secrets
+config.json
+scratchpad.txt
+
+# Temp & Artifacts
+*.tmp
+*.log
+*.crdownload
+top_screen_capture.png
+top_screen.png
+
+# Reference Download Packages (Exclude large zips)
+*.zip
+agentic-awesome-skills/
+celestia_shell_extracted/
+dynamic_win_extracted/
